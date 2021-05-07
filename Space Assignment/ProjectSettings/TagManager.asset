@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Team1
+  - Team2
+  - Explodable
+  - SpaceShip
+  - Team3
+  - Team4
+  - Team5
+  - Projectile
+  - ForceField
+  - Team1ForceField
+  - Team2ForceField
+  - Team3ForceField
+  - Team4ForceField
+  - Team5ForceField
+  - Team6
+  - Team6ForceField
+  - RaceGoal
+  - Team7
+  - Team8
+  - Team9
+  - Team10
+  - Team11
+  - Team12
+  - Team13
+  - Team14
+  - Team15
+  - Team16
+  - Team17
+  - Team18
+  - Team19
+  - Team20
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Turrets
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
